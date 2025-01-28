@@ -1,12 +1,4 @@
-❯ nano whereareyou.sh
-❯ sudo mv whereareyou.sh /usr/local/bin/whereareyou
-
-[sudo] password for guerrerove: 
-❯ sudo chmod +x /usr/local/bin/whereareyou
-
-❯ whereareyou google.com
-Información para la IP: google.com
-  GNU nano 7.2                                              whereareyou                                                         
+                                            
 # Verificar si la respuesta contiene datos válidos
 if echo "$response" | grep -q "\"status\":\"fail\""; then
   echo "No se pudo obtener información para la IP: $IP"
