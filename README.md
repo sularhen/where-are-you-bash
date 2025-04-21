@@ -32,17 +32,19 @@ This Script was made using ip-api.com as the resource of imformation where we ar
  - country: United States
  - Region: California
  - City: Mountain View
- - Hosted by: Google LLC </> ```
+ - Hosted by: Google LLC </>
+```
 
  *with option 2:*
-
- $ whereareyou google.com
+```
+  $ whereareyou google.com
  
  - Information for: google.com
  - country: United States
  - Region: California
  - City: Mountain View
  - Hosted by: Google LLC
+```
 
 ### ABOUT PERMISSONS: 
 
