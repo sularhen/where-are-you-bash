@@ -4,7 +4,7 @@ Funny script in bash to make a fast geolocation of the ip or domain to scan insi
 
 This Script was made using ip-api.com as the resource of imformation where we are getting the geolocation of the domain or ip.
 
-### HOW TO USE IT:
+## HOW TO USE IT:
 
  ***1. Executing it as an normal script:***
 
@@ -46,7 +46,7 @@ This Script was made using ip-api.com as the resource of imformation where we ar
  - Hosted by: Google LLC
 ```
 
-### ABOUT PERMISSONS: 
+## ABOUT PERMISSONS: 
 
  *You can copy, modify or change this code however you want, add diferent sources and play with it.*
 
