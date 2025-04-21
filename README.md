@@ -21,17 +21,18 @@ This Script was made using ip-api.com as the resource of imformation where we ar
  - Give permissons of execution to the script. with
    sudo chmod +x /usr/local/bin/whereareyou and thas it you can run it by using whereareyou <target ip or domain>
 
-***EXAMPLE OF USE:**
+***EXAMPLE OF USE:***
 
  *Whith option 1:*
-  
- $ ./whereareyou google.com
+ 
+  ```
+  $ ./whereareyou google.com
  
  - Information for: google.com
  - country: United States
  - Region: California
  - City: Mountain View
- - Hosted by: Google LLC
+ - Hosted by: Google LLC </> ```
 
  *with option 2:*
 
