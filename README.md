@@ -13,7 +13,7 @@ This Script was made using ip-api.com as the resource of imformation where we ar
  - Paste the code
  - Run it in the terminal using ./whereareyou.sh <target ip or domain>
 
- ***2. Executing it as an integrated command for linux (RECOMMENDED)**
+ ***2. Executing it as an integrated command for linux (RECOMMENDED)***
 
  - Do all the steps above.
  - Move the script to your path so you can execute it as a command using
